@@ -64,6 +64,17 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(33).pdf" style="text-decoration:none;">Calibration of Cameras with Radially Symmetric Distortion</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(34).pdf" style="text-decoration:none;">Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(35).pdf" style="text-decoration:none;">Automatic Radial Distortion Estimation from a Single Image</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(36).pdf" style="text-decoration:none;">Sensor-Fingerprint Based Identification of Images Corrected for Lens Distortion</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(37).pdf" style="text-decoration:none;">Blind Geometric Distortion Correction on Images Through Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(38).pdf" style="text-decoration:none;">Lens Distortion Correction and Enhancement Based on Local Self-similarity for High-quality Consumer Imaging Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Distortion-Correction-Papers/blob/master/id(39).pdf" style="text-decoration:none;">Lens Distortion Correction Using Ideal Image Coordinates</a></li>
+
+ 
+ 
+ 
  
   </ul>
   
